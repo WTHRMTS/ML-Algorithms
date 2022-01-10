@@ -1,4 +1,3 @@
-from re import DEBUG
 import numpy as np
 
 class LinearRegression:
